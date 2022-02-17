@@ -1,10 +1,14 @@
-# Unlocked_Challenge_3
-Z by HP Unlocked Challenge 3 - Audio Recognition - Special thanks to Hunter Kempf for helping create this challenge!
+# Z by HP Unlocked Challenge 3
+Z by HP Unlocked Challenge 3 - Audio Recognition - Special thanks to Hunter Kempf for helping create this challenge! 
+Watch the tutorial video here: https://youtu.be/9Txxl0FJZas
 
 ![CapuchinBird](https://1c7gnu28cnefcask1kjk6k1d-wpengine.netdna-ssl.com/wp-content/uploads/2013/11/Capuchinbird.png)
 
 ## The Task
 The Challenge is to build a Machine Learning model and code to count the number of Capuchinbird calls within a given clip. This can be done in a variety of ways and we would recommend that you do some research into [various methods of audio recognition](#where-to-start).
+
+## What is Unlocked?
+Unlocked is an action-packed interactive film made for data scientists. Sharpen your skills and solve the data driven mystery here: https://www.hp.com/us-en/workstations/industries/data-science/unlocked-challenge.html
 
 ## The Data
 The Data is split into Training and Testing Data. For Training Data we have provided enough clips to get a decent model but you can also find, parse, augment and use additional audio clips to improve your model performance.
